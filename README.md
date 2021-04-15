@@ -8,7 +8,7 @@ Current preprint: doi: https://doi.org/10.1101/2021.04.04.438393
 **Contents**:
 
   _Data_
-    group behavior data
+    group behavior data (survival analysis),
     neural activity data
 
   _Scripts_
