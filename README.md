@@ -1,8 +1,8 @@
 # neuro_social_learning
 
-Code and data repository for "Differential neural activity patterns mediate learning across contexts in a social cichlid fish" _Rodriguez-Santiago, et al. (2021) in submission_.
+Code and data repository for "Neural activity patterns differ between learning contexts in a social fish" _Rodriguez-Santiago, et al. (2022)_.
 
-Current preprint: doi: https://doi.org/10.1101/2021.04.04.438393
+doi: https://doi.org/10.1101/2021.04.04.438393
 
 
 **Contents**:
